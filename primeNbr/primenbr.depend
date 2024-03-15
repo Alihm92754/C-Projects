@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710532318 source:c:\users\user\desktop\c projects\primenbr\main.c
+	<stdio.h>
+	<stdlib.h>
+
