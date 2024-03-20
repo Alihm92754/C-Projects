@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710899331 source:c:\users\user\desktop\c projects\contactlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
