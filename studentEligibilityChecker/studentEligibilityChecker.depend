@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711049074 source:c:\users\user\desktop\c projects\studenteligibilitychecker\main.c
+	<stdio.h>
+	<stdlib.h>
+
