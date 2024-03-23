@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711154923 source:c:\users\user\desktop\c projects\checkifpalidrome\main.c
+	<stdio.h>
+	<stdlib.h>
+
