@@ -5,10 +5,18 @@ int main()
 	float num1, num2;
 	printf("Enter the first number: ");
 	fflush(stdout);
-	scanf("%f",&num1);
+	if(scanf("%f",&num1) == 0){
+		printf("Invalid input...exiting");
+		return 0;
+	}
+
 	printf("Enter the second number: ");
 	fflush(stdout);
-	scanf("%f",&num2);
+
+	if(scanf("%f",&num2) == 0){
+		printf("Invalid input...exiting");
+		return 0;
+	}
 	int inum1, inum2;
 	inum1 = num1;
 	inum2 = num2;
@@ -26,7 +34,6 @@ int main()
 			printf("Num1 is Bigger");
 		}
 	}
-
 	return 0;
-
 }
+
